@@ -84,6 +84,8 @@ class Tracker {
 
 	/**
 	 * This function is used to analyse the backtrace in order to retrieve some information
+     *
+     * see : https://stackoverflow.com/questions/255312/how-to-get-a-variable-name-as-a-string-in-php
 	 *
 	 * @param $back_trace
 	 *
